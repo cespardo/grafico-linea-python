@@ -1,6 +1,6 @@
 #...
 #César Pardo - 23-marzo-2020
-#Código de una gráfica en Python
+#Código de una gráfica con una línea en Python
 #...
 
 import math
